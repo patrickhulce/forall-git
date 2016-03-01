@@ -1,0 +1,30 @@
+{
+  "name": "forall-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "readline-sync": "^1.4.1",
+    "shelljs": "^0.6.0",
+    "yargs": "^4.2.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "forall-git": "index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickhulce/forall-git.git"
+  },
+  "author": "Patrick Hulce <patrick.hulce@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickhulce/forall-git/issues"
+  },
+  "homepage": "https://github.com/patrickhulce/forall-git#readme"
+}
